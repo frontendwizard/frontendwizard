@@ -4,4 +4,4 @@ I know, big username right? Well, I grew up reading stories about magical univer
 
 I'm mostly doing React related stuff, with some data visualizations and a whole lot of other small pieces and libraries of the frontend ecosystem.
 
-I'm currently in between jobs, previously being a Senior Frontend Engineer @usabilla. You can find all the work experiences and professional information on [linkedin](https://linkedin.com/in/frontendwizard).
+I'm currently working as a Frontend Engineer at [Dyme](https://github.com/dyme-org/). You can find all the work experiences and professional information on [linkedin](https://linkedin.com/in/frontendwizard).
